@@ -7,3 +7,7 @@ requests 2.31.0
 aiohttp 3.9.1
 eth-account 0.8.0
 eth-abi 4.2.1
+便宜代理可选择https://app.nstproxy.com/register?i=Vp7B4B
+wallets.py文件可生成钱包，运行文件后输入想要的钱包数量。会自动保存包wallets.txt文件 重点：#关于钱包安全可自行选择钱包生成渠道
+执行python sonic_wallet.py可自动领取Sonic和Coral。关于线程池，代码第503行可修改最大并发数当前为10
+最后有大佬指点一下关于swap的功能吗？谢谢
